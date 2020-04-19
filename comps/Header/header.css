@@ -1,0 +1,9 @@
+.header {
+    width:6.5em;
+    margin: 1em;
+    display: flex;
+    border-radius: 5px;
+    padding:10px;
+    font-weight: bolder;
+    cursor: pointer;
+}
